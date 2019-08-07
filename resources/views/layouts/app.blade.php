@@ -15,9 +15,10 @@
 
     </head>
     <body>
-            <div class="app">
-                @yield('content')
-                <h1>Hola, Tu</h1>
+            <div class="content-fluid">
+
+                <div id="example"></div>
+                
             </div>
 
         
